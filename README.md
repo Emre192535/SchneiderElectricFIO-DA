@@ -85,6 +85,7 @@ You can download the dataset flow following link https://data.world/socialmediad
 -   Breweries were grouped, and the mean and median ABV were calculated
     for each.
 ![Beer Review Analysis](1.png)
+![Beer Review Analysis](2.png)
 **Result**:
 
 -   The analysis showed that **Schorschbräu** produces the strongest
@@ -121,7 +122,8 @@ You can download the dataset flow following link https://data.world/socialmediad
 
 -   Ordinary Least Squares (OLS) regression was used to quantify the
     impact of each factor on the overall score.
-
+![Beer Review Analysis](3.png)
+![Beer Review Analysis](4.png)
 **Result**:
 
 -   The factors influencing beer quality the most are:
@@ -144,7 +146,7 @@ Style**
 
 -   The top 25 beer styles were identified based on the combined average
     of aroma and appearance scores.
-
+![Beer Review Analysis](5.png)
 **Result**:
 
 -   **American Double / Imperial Stout** was identified as the best beer
