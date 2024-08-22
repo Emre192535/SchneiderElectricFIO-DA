@@ -17,6 +17,7 @@ You can download the dataset flow following link https://data.world/socialmediad
 -   **Dataset Name**: beer_reviews.csv
 
 -   **Total Entries**: 1,586,614
+    ![Dataset Overview](6.png)
 
 -   **Columns**:
 
