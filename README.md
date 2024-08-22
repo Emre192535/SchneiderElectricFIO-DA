@@ -153,6 +153,4 @@ Style**
 -   **American Double / Imperial Stout** was identified as the best beer
     style based on aroma and appearance consistency.
 
-**Conclusion**
 
-For any question you can contact me through emre.yahssi@gmail.com
