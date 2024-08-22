@@ -84,7 +84,7 @@ You can download the dataset flow following link https://data.world/socialmediad
 
 -   Breweries were grouped, and the mean and median ABV were calculated
     for each.
-
+!1.png
 **Result**:
 
 -   The analysis showed that **Schorschbräu** produces the strongest
